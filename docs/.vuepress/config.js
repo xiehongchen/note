@@ -4,7 +4,7 @@ module.exports = {
     // 自定义网站 favicon
     head: [['link', { rel: 'icon', href: '/img/logo.png' }]],
     // 根路径，和仓库名一致
-    base: '/life-long-learning/',
+    base: '',
     // 左上角标题
     title: 'life-long-learning',
     // markdown 相关配置
