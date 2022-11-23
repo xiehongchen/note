@@ -1,4 +1,5 @@
 module.exports = [
+  { text: '前端工具库', link: '/notes/tools/tools' },
   {
     text: '前端基础',
     items: [
@@ -20,7 +21,9 @@ module.exports = [
       {
         items: [
           { text: 'ES6', link: '/notes/es6/es6' },
-          { text: 'Node.js', link: '/notes/nodejs/nodejs' }, 
+          { text: 'Node.js', link: '/notes/nodejs/nodejs' },
+          { text: 'TypeScript', link: '/notes/typescript/typescript' },
+          { text: 'Webpack5', link: '/notes/webpack5/webpack5' },
         ]
       }
     ]
@@ -30,7 +33,7 @@ module.exports = [
     items: [
       {
         items: [
-          {text: 'Vue', link: '/notes/vue/vue'},
+          { text: 'Vue', link: '/notes/vue/vue' },
         ]
       }
     ]
@@ -54,5 +57,5 @@ module.exports = [
       { text: '微信小程序', link: '/projects/wx/wx' },
     ]
   }
-  
+
 ]

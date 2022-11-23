@@ -31,8 +31,8 @@ module.exports = {
       nextLinks: true,
       // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
       prevLinks: true,
-      // 导航栏显示 gitee 仓库
-      repo: 'https://gitee.com/xiehongchen/xiehongchen.gitee.io',
-      repoLabel: 'Gitee',
+      // 导航栏显示 github 仓库
+      repo: 'https://github.com/xiehongchen/xiehongchen.github.io',
+      repoLabel: 'GitHub',
     },
   }
